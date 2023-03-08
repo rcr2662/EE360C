@@ -1,2 +1,0 @@
-Optimal amount of food: 3801205
-Completed in 17 milliseconds
