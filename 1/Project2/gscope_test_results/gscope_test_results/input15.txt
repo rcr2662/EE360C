@@ -1,0 +1,26 @@
+All reachable stations from station 8 are:
+[Gas Station 8]
+All reachable stations from station 28 are:
+[Gas Station 0, Gas Station 1, Gas Station 2, Gas Station 3, Gas Station 4, Gas Station 5, Gas Station 6, Gas Station 7, Gas Station 8, Gas Station 9, Gas Station 10, Gas Station 11, G
+as Station 12, Gas Station 13, Gas Station 14, Gas Station 15, Gas Station 16, Gas Station 17, Gas Station 18, Gas Station 19, Gas Station 20, Gas Station 21, Gas Station 22, Gas Stati
+on 23, Gas Station 24, Gas Station 25, Gas Station 26, Gas Station 27, Gas Station 28, Gas Station 29]
+All reachable stations from station 9 are:
+[Gas Station 9]
+All reachable stations from station 24 are:
+[Gas Station 24]
+All reachable stations from station 26 are:
+[Gas Station 26]
+Test reachable over
+
+Min tank size needed to go from station 6 to station 18 is
+21
+Min tank size needed to go from station 0 to station 5 is
+95
+Min tank size needed to go from station 22 to station 25 is
+49
+Min tank size needed to go from station 21 to station 26 is
+262
+Min tank size needed to go from station 17 to station 7 is
+116
+Test min tank size over
+

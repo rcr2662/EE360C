@@ -1,0 +1,27 @@
+All reachable stations from station 12 are:
+[Gas Station 12]
+All reachable stations from station 10 are:
+[Gas Station 0, Gas Station 1, Gas Station 2, Gas Station 3, Gas Station 4, Gas Station 5, Gas Station 6, Gas Station 7, Gas Station 8, Gas Station 9, Gas Station 10, Gas Station 11, G
+as Station 12, Gas Station 13, Gas Station 14, Gas Station 15, Gas Station 16]
+All reachable stations from station 9 are:
+[Gas Station 0, Gas Station 1, Gas Station 2, Gas Station 3, Gas Station 4, Gas Station 5, Gas Station 6, Gas Station 7, Gas Station 8, Gas Station 9, Gas Station 10, Gas Station 11, G
+as Station 12, Gas Station 13, Gas Station 14, Gas Station 15, Gas Station 16]
+All reachable stations from station 1 are:
+[Gas Station 1]
+All reachable stations from station 14 are:
+[Gas Station 0, Gas Station 1, Gas Station 2, Gas Station 3, Gas Station 4, Gas Station 5, Gas Station 6, Gas Station 7, Gas Station 8, Gas Station 9, Gas Station 10, Gas Station 11, G
+as Station 12, Gas Station 13, Gas Station 14, Gas Station 15, Gas Station 16]
+Test reachable over
+
+
+Min tank size needed to go from station 9 to station 14 is
+0
+Min tank size needed to go from station 15 to station 3 is
+2
+Min tank size needed to go from station 10 to station 13 is
+39
+Min tank size needed to go from station 13 to station 5 is
+59
+Min tank size needed to go from station 10 to station 5 is
+39
+Test min tank size over
