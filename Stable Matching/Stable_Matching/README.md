@@ -45,7 +45,6 @@ sufficient. See the instructions section for more information on how to test thi
 
 Implement Gale Shapley Algorithm:
 Implement both algorithms from parts (a) (city optimal) and (c) (doctor optimal) of your report.
-Programming Assignment #1: Feb 14, 2022 11:59 PM 3
 Again, you are provided several files to work with. Implement the function that yields a doctor
 optimal solution stableMatchingGaleShapley_doctoroptimal() and city optimal solution
 stableMatchingGaleShapley_cityoptimal() inside of Program1.java.
@@ -110,7 +109,6 @@ examples, see the last lines of the test cases with the file extension .extended
 your checker and your city optimal or doctor optimal algorithms and to specify an input file.
 Use -gc for city optimal, -gi for doctor optimal, and -bf for importing an existing matching
 (to check correctness of isStableMatching()). (i.e. java -classpath . Driver [-gc]
-Programming Assignment #1: Feb 14, 2022 11:59 PM 5
 [-gi] [-bf] <filename> on a linux machine). As a test, the 3-10-3.in input file should
 output the following for both a doctor and city optimal solution:
 – Doctor 0 city -1
